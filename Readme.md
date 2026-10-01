@@ -1,20 +1,57 @@
-# Exercícios de Java
+<h1 align="center">☕ Exercícios de Java</h1>
 
-Repositório criado para armazenar os exercícios e atividades desenvolvidos durante os estudos de Java.
+<p align="center">
+  Repositório com os exercícios da disciplina de Java, do ambiente configurado até programação orientada a objetos.
+</p>
 
-## Exercícios
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21_LTS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-* [Exercício 01](./exercicio-01)
-* [Exercício 02](./exercicio-02)
-* [Exercício 03](./exercicio-03)
-* [Exercício 04](./exercicio-04)
-* [Exercício 05](./exercicio-05)
-* [Exercício 06](./exercicio-06)
-* [Exercício 07](./exercicio-07)
-* [Exercício 08](./exercicio-08)
-* [Exercício 09](./exercicio-09)
-* [Exercício 10](./exercicio-10)
-* [Exercício 11](./exercicio-11)
-* [Exercício 12](./exercicio-12)
+---
 
-Cada pasta contém o código do exercício e o respectivo print da execução.
+## 👨‍💻 Sobre
+
+Projeto feito por **Adryan Silva** para praticar os fundamentos de Java: entrada de dados, condicionais, laços, validações e classes.
+
+## 🛠️ Stack
+
+| Tecnologia | Uso |
+|---|---|
+| ☕ Java 21 (LTS) | Linguagem principal |
+| 🧠 IntelliJ IDEA | IDE de desenvolvimento |
+| 🔀 Git / GitHub | Versionamento e entrega |
+
+## 📚 Exercícios
+
+| # | Pasta | O que faz |
+|---|---|---|
+| 1 | `exercicio1-ambiente` | Configuração do ambiente (JDK e IntelliJ) e programa "Olá, meu nome é..." |
+| 2 | `exercicio2-senha` | Validação de senha segura (8+ caracteres, maiúscula, número e caractere especial) |
+| 3 | `exercicio3-imposto` | Cálculo de imposto de renda por faixas de alíquota |
+| 4 | `exercicio4-emprestimo` | Simulação de empréstimo com juros de 3% ao mês |
+| 5 | `exercicio5-cgi` | Simulação de resposta CGI (headers HTTP + HTML) |
+| 6 | `exercicio6-veiculo` | Cadastro de veículos com classe, atributos e métodos |
+
+## ▶️ Como executar
+
+```bash
+# Compilar
+javac NomeDoArquivo.java
+
+# Executar
+java NomeDoArquivo
+```
+
+> Requer o **JDK 21** ou superior instalado.
+
+## 📸 Evidências
+
+Cada pasta contém o código-fonte (`.java`) e os prints da execução.
+
+---
+
+<p align="center">Feito com ☕ por Adryan Silva</p>
