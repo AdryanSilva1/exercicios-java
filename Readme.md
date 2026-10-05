@@ -35,6 +35,7 @@ Projeto feito por **Adryan Silva** para praticar os fundamentos de Java: entrada
 | 4 | `exercicio4-emprestimo` | Simulação de empréstimo com juros de 3% ao mês |
 | 5 | `exercicio5-cgi` | Simulação de resposta CGI (headers HTTP + HTML) |
 | 6 | `exercicio6-veiculo` | Cadastro de veículos com classe, atributos e métodos |
+| 7 | `exercicio7-Aluno` | Gerenciador de Alunos com classe, atributos e métodos |
 
 ## ▶️ Como executar
 
