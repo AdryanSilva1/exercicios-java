@@ -1,7 +1,7 @@
 <h1 align="center">☕ Exercícios de Java</h1>
 
 <p align="center">
-  Repositório com os exercícios da disciplina de Java, do ambiente configurado até programação orientada a objetos.
+  Repositório com os exercícios da disciplina de Java, do ambiente configurado até manipulação de arquivos e arrays.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre
 
-Projeto feito por **Adryan Silva** para praticar os fundamentos de Java: entrada de dados, condicionais, laços, validações e classes.
+Projeto feito por **Adryan Silva** para realizar a entrega do assesmet do bloco de fundamentos de Desenvolvimento com Java: entrada de dados, condicionais, laços, validações e classes.
 
 ## 🛠️ Stack
 
@@ -27,27 +27,23 @@ Projeto feito por **Adryan Silva** para praticar os fundamentos de Java: entrada
 
 ## 📚 Exercícios
 
-| # | Pasta | O que faz |
-|---|---|---|
-| 1 | `exercicio1-ambiente` | Configuração do ambiente (JDK e IntelliJ) e programa "Olá, meu nome é..." |
-| 2 | `exercicio2-senha` | Validação de senha segura (8+ caracteres, maiúscula, número e caractere especial) |
-| 3 | `exercicio3-imposto` | Cálculo de imposto de renda por faixas de alíquota |
-| 4 | `exercicio4-emprestimo` | Simulação de empréstimo com juros de 3% ao mês |
-| 5 | `exercicio5-cgi` | Simulação de resposta CGI (headers HTTP + HTML) |
-| 6 | `exercicio6-veiculo` | Cadastro de veículos com classe, atributos e métodos |
-| 7 | `exercicio7-Aluno` | Gerenciador de Alunos com classe, atributos e métodos |
+| # | Pasta | O que faz | Status |
+|---|---|---|---|
+| 1 | `exercicio-01` | Programa "Olá, meu nome é..." (faltam os prints do `java -version` e da IDE) | 
+| 2 | `exercicio-02` | Validação de senha segura (8+ caracteres, maiúscula, número e caractere especial) |
+| 3 | `exercicio-03` | Cálculo de imposto de renda por faixas de alíquota | 
+| 4 | `exercicio-04` | Simulação de empréstimo com juros de 3% ao mês | 
+| 5 | `exercicio-05` | Simulação de resposta CGI (headers HTTP + HTML) | 
+| 6 | `exercicio-06` | Cadastro de veículos com classe, atributos e métodos |
+| 7 | `exercicio-07` | Gerenciador de Alunos com média e aprovação | 
+| 8 | `exercicio-08` | Funcionários: Gerente (+20%) e Estagiário (-10%) |
+| 9 | `exercicio-09` | Conta bancária com saldo privado, depositar e sacar |
+| 10 | `exercicio-10` | Registro de 3 compras em `compras.txt` e leitura do arquivo | 
+| 11 | `exercicio-11` | Simulação de loteria (6 números de 1 a 60) |
+| 12 | `exercicio-12` | Chat simples com array de 10 mensagens |
 
-## ▶️ Como executar
 
-```bash
-# Compilar
-javac NomeDoArquivo.java
 
-# Executar
-java NomeDoArquivo
-```
-
-> Requer o **JDK 21** ou superior instalado.
 
 ## 📸 Evidências
 
